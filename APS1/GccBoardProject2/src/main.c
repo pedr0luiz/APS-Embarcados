@@ -78,7 +78,6 @@ int main(void)
 	pause_flag = 0;
 	song_id = 0;
 	pin_toggle(oleds[song_id], oleds_mask[song_id]);
-	//pin_toggle(LED3_PIO, LED3_IDX_MASK);
 	//song_part songs[3][10] = {cheia_de_manias, pirates_of_the_caribbean, imperial_march};
 	while (1){
 		if(play_flag){

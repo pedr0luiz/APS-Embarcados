@@ -1,11 +1,5 @@
 #include "structs.h"
 
-song_part imperial_march_intro = { {
-	{NOTE_A4, 2}, {NOTE_A4, 2}, {NOTE_A4, 2}, {NOTE_F4, 1}, {NOTE_C5, 1},
-	{NOTE_A4, 2}, {NOTE_F4, 1}, {NOTE_C5, 1}, {NOTE_A4, 4},
-	{NOTE_E5, 2}, {NOTE_E5, 2}, {NOTE_E5, 2}, {NOTE_F5, 1}, {NOTE_C4, 1},
-	{NOTE_GS4, 2}, {NOTE_F4, 1}, {NOTE_C5, 1}, {NOTE_A4, 4}}, 240};
-
 	song_part imperial_march[] = {
 		{
 			{
@@ -63,16 +57,6 @@ song_part imperial_march_intro = { {
 			
 		}
 	};
-
-// 	song_part intro = {
-// 		{
-// 			{NOTE_AS4, 1}, {NOTE_AS4, 1}, {NOTE_A4, 1}, {NOTE_G4, 1}, {NOTE_AS4, 2}, {REST, 2},
-// 			{REST, 0}
-// 		},
-// 		400
-// 	};
-// 
-// 	song teste = {intro, intro, intro, intro};
 
 song_part cheia_de_manias[] = {
  	{
