@@ -14,7 +14,7 @@
   
 <br> 
  
-* ## Link para o [Vídeo]().
+* ## Link para o [Vídeo](https://www.youtube.com/watch?v=9YInmsFwVpM).
 
 <br>
 
